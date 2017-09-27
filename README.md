@@ -1,7 +1,6 @@
 
+## Exploratory Data Analysis
 ![](https://github.com/iurigo/Exploratory-Data-Analysis/blob/master/banner.jpg)  
-
-## Directions
 
 This project is focused on exploratory data analysis, aka "EDA". EDA is an essential part of the data science analysis pipeline. Failure to perform EDA before modeling is almost guaranteed to lead to bad models and faulty conclusions. What you do in this project are good practices for all projects going forward.
 
